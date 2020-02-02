@@ -1,4 +1,4 @@
-var speedX = lengthdir_x(Speed, Direction);	
+var speedX = lengthdir_x(Speed, Direction);
 var speedY = lengthdir_y(Speed, Direction);
 
 x = x + speedX;
