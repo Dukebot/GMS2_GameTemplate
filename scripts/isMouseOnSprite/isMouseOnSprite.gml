@@ -1,6 +1,5 @@
 var object = pointer_null; 
-if argument_count > 0
-	object = argument[0];
+if (argument_count > 0) object = argument[0];
 
 var MouseOnSprite = false;
 

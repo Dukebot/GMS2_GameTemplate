@@ -1,2 +1,3 @@
-hp = 1;
-invincible = false;
+hitPoints = 1;
+Speed = 0;
+Direction = 0;
