@@ -4,4 +4,4 @@ if instance_number(oGame) > 1 {
 
 //Create controller objects
 inputController = instanceCreate(oInput);
-interfaceController = instanceCreate(oInterface);
+drawController = instanceCreate(oDraw);

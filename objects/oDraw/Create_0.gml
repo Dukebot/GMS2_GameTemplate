@@ -1,3 +1,3 @@
-if instance_number(oInterface) > 1 {
+if instance_number(oDraw) > 1 {
 	exception("More than one oInterface have been instanciated");
 }

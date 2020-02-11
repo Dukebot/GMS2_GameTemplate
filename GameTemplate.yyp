@@ -618,7 +618,7 @@
             "Key": "9ca1d858-ec5d-4f9c-aac8-d241f4f36798",
             "Value": {
                 "id": "936b84fb-2ea4-47f3-afaa-1c8d17302f94",
-                "resourcePath": "objects\\oInterface\\oInterface.yy",
+                "resourcePath": "objects\\oDraw\\oDraw.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -732,6 +732,14 @@
                 "id": "1cbeb84e-c665-44d5-b620-800cfad13dbc",
                 "resourcePath": "views\\afbf4f04-1628-45f7-8601-69347853dc5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0940703-adb1-47a1-a8ca-5e9edbae3d9e",
+            "Value": {
+                "id": "61c99659-3502-4b74-ad24-7ec5aa3053dc",
+                "resourcePath": "scripts\\getInput\\getInput.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -919,6 +927,14 @@
             }
         },
         {
+            "Key": "daaa4931-d3c2-4c2c-bf4b-2d5fbde0c1fa",
+            "Value": {
+                "id": "6bca2882-f219-4085-ae88-0c74eb613c2e",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de9e066e-0780-4dc1-bd94-43758958fc04",
             "Value": {
                 "id": "e62ff006-6fd2-4e8e-ba9d-eb2d6d78a347",
@@ -1039,6 +1055,14 @@
             }
         },
         {
+            "Key": "f60e8e1e-dedc-4c2e-a797-7ef681a4ce74",
+            "Value": {
+                "id": "bb44df96-5099-4879-b29f-c553d219e0df",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f9790be3-52d1-42b5-9fc8-6e0fe585ceee",
             "Value": {
                 "id": "aba57415-5af6-459d-bc1d-2b3cf009d5fe",
@@ -1108,6 +1132,7 @@
         "439fe666-a6aa-4509-92d5-7b0593142354",
         "a3ec9866-e978-4e13-b6fc-394396221462",
         "c86cad6f-8a23-4990-8010-7305ac39c6c4",
+        "b0940703-adb1-47a1-a8ca-5e9edbae3d9e",
         "8caa6451-0b6b-40d2-943a-1ba7cb0a41fc",
         "5dc04366-d973-4629-b9f5-954622f4afad",
         "d9b5530f-4bf1-4a31-857e-7b488fcb2db7",

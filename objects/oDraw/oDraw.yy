@@ -2,7 +2,7 @@
     "id": "9ca1d858-ec5d-4f9c-aac8-d241f4f36798",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oInterface",
+    "name": "oDraw",
     "eventList": [
         {
             "id": "514004a7-6f7f-420f-8d81-1ab271ad005e",
